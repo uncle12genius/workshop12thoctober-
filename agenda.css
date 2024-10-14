@@ -1,0 +1,18 @@
+ body {
+      font-family: Arial, sans-serif;
+    }
+    .agenda-list li {
+      margin-bottom: 10px;
+    }
+    .btn-primary,
+    .card-header,
+    .table-striped tbody tr:nth-of-type(odd) {
+      background-color: #000076 ;
+      border-color: #000076 ;
+    }
+    .btn-primary,
+    .card-header {
+      background-color: #000076 ;
+      border-color: #000076 ;
+    }
+  
